@@ -46,5 +46,5 @@
 <Python 서버 콘솔 화면>  
 <img src="./image/filtering.PNG" alt="filtering" width="600" height="300"/>  
 <필터링 화면>  
-<img src="./image/filtering_bar.PNG" alt="filtering" width="600" height="300"/>  
+<img src="./image/filtering_bar.PNG" alt="filtering" width="500" height="800"/>  
 <크롬 창 우측 상단의 하히콘을 클릭했을때 나오는 필터링 된 문자들이 보이는 화면>  
