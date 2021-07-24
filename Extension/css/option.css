@@ -1,0 +1,25 @@
+body {
+	width: 330px;
+	height: 160px;
+	font-family: font-family:'ƒqƒ‰ƒMƒmŠpƒS Pro W3','Hiragino Kaku Gothic Pro','ƒƒCƒŠƒI',Meiryo,'‚l‚r ‚oƒSƒVƒbƒN',sans-serif;
+	color: #000;
+	background-color: #eee;
+	font-size: 11pt;
+}
+
+label {
+	color: #777;
+	font-weight: bold;
+	font-size: large;
+}
+
+p {
+	color: #777;
+	font-size: large;
+}
+
+button {
+	font-size: large;
+	position: absolute;
+	left: 320px;
+}

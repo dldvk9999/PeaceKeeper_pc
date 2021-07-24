@@ -1,0 +1,34 @@
+{
+	"author": "SUWON_UNIV__16040019_JongGeun",
+	"name": "Peace Keeper (Graduate Project)",
+	"background": {
+		"scripts": [ "lib/jquery-1.4.3.min.js", "background.js" ],
+		"persistent": true
+	},
+	"browser_action": {
+		"default_title": "Peace Keeper (Graduate Project)",
+		"default_icon": "icons/icon.png",
+		"default_popup": "index.html"
+	},
+	"options_ui": {
+		"page": "option.html"
+	},
+	"icons": {
+		"128": "icons/icon_128.png",
+		"48": "icons/icon_48.png",
+		"16": "icons/icon_16.png"
+	},
+	"commands": {
+		"_execute_browser_action": {
+			"suggested_key": {
+				"default": "Ctrl+Shift+S",
+				"mac": "Command+Shift+S"
+			}
+		}
+	},
+	"description": "You can change any text in any website you want!",
+	"manifest_version": 2,
+	"permissions": [ "tabs", "activeTab", "webNavigation", "storage", "http://*/*", "https://*/*" ],
+	"name": "Peace Keeper (Graduate Project)",
+	"version": "1.0"
+}
