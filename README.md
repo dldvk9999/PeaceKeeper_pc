@@ -36,15 +36,15 @@
 ***
 
 ## 실행 이미지
-<img src="./image/extension.PNG" alt="filtering" width="300" height="600"/>  
+<img src="./image/extension.PNG" alt="filtering" width="600" height="300"/>  
 <크롬 확장 프로그램>  
-<img src="./image/server_setting.PNG" alt="filtering" width="300" height="600"/>  
+<img src="./image/server_setting.PNG" alt="filtering" width="600" height="300"/>  
 <크롬 확장 프로그램 옵션 설정>  
-<img src="./image/option_save.PNG" alt="filtering" width="300" height="600"/>  
+<img src="./image/option_save.PNG" alt="filtering" width="600" height="300"/>  
 <크롬 확장 프로그램 옵션 설정 완료>  
-<img src="./image/python_print.PNG" alt="filtering" width="300" height="600"/>  
+<img src="./image/python_print.PNG" alt="filtering" width="600" height="300"/>  
 <Python 서버 콘솔 화면>  
-<img src="./image/filtering.PNG" alt="filtering" width="300" height="600"/>  
+<img src="./image/filtering.PNG" alt="filtering" width="600" height="300"/>  
 <필터링 화면>  
-<img src="./image/filtering_bar.PNG" alt="filtering" width="300" height="600"/>  
+<img src="./image/filtering_bar.PNG" alt="filtering" width="600" height="300"/>  
 <크롬 창 우측 상단의 하히콘을 클릭했을때 나오는 필터링 된 문자들이 보이는 화면>  
